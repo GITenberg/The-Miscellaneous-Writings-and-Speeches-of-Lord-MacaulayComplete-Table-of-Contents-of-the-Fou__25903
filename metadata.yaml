@@ -1,0 +1,38 @@
+_repo: The-Miscellaneous-Writings-and-Speeches-of-Lord-MacaulayComplete-Table-of-Contents-of-the-Fou__25903
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Macaulay, Thomas Babington Macaulay, Baron
+    aliases:
+    - Macaulay, T. Babington (Thomas Babington)
+    - Macaulay, Lord (Thomas Babington Macaulay)
+    birthdate: 1800
+    deathdate: 1859
+    gutenberg_agent_id: '443'
+    url: http://www.gutenberg.org/2009/agents/443
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Babington_Macaulay,_1st_Baron_Macaulay
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2008-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25903'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indexes'
+- !lcsh 'English essays'
+- !lcc 'PR'
+title: 'The Miscellaneous Writings and Speeches of Lord Macaulay
+
+  Complete Table of Contents of the Four Volumes'
+url: http://www.gutenberg.org/ebooks/25903
